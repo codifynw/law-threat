@@ -25,3 +25,17 @@
     .jumbotron .lang-logo img {
       max-width: 100%; }
 
+  body {margin:0; min-height: 2000px}
+  body, #input * {background-color: #222; color: #fff}
+  #input :disabled {color: #555}
+  table {border-collapse: collapse;}
+  td, th {height: 20px; border: 1px solid white;padding: 3px;}
+  #progressBarContainer {padding: 0;}
+  #progressBar {height: 26px; background-color: #888; width: 0;}
+  #input input, #input select {min-width:350px;width:100%;box-sizing:border-box}
+  #input button {width:100px}
+  #outputContainer {display: flex; flex-wrap: wrap}
+  #threatTableContainer, #threatTableContainer table {margin: 20px}
+  input.talent {width:30px}
+  .colorPicker {padding:0;width:20px;height:20px;margin-right:5px}
+  .checkbox {margin-left: 20px}
