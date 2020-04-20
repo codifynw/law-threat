@@ -1,7 +1,7 @@
 "use strict";
 
 const throttleTime = 250;
-let apikey = "b91955fd65954650000220e85bd79c3d";
+let apikey = "0f8cc3d1a420989b76a2a756109cbdf5";
 let colorByClass = true;
 let plotXRange = [-Infinity, Infinity];
 
